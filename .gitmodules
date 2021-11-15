@@ -1,0 +1,5 @@
+[submodule "themes/contrast"]
+	path = themes/contrast
+	url = https://github.com/StickyNeutrino/contrast-hugo.git
+[submodule "./themes/contrast"]
+	branch = lod

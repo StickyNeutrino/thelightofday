@@ -1,0 +1,4 @@
+baseURL = 'https://thelightofday.net/'
+languageCode = 'en-us'
+title = 'The light of day'
+theme='contrast'
